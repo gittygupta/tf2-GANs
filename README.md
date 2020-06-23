@@ -1,1 +1,1 @@
-# GANs
+# tf2-GANs
